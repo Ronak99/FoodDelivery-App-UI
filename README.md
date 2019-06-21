@@ -1,16 +1,14 @@
-# food_delivery
+# Food Delivery App UI in  <img src='http://sovitpoudel.com.np/wp-content/uploads/2019/01/flutter.png' height='30' width='30' align='top'>
 
-A new Flutter project.
+In this project, I make this UI in flutter, and also added some functionalities like "Add to Cart" and "Drag to delete" using bloc pattern.
 
-## Getting Started
+Video for UI : [here]()
+Video for drag and drop in flutter : [here]()
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/app_gif.gif' align='left' width='25%'>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/flutter_01.png' align='left' width='25%'>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/flutter_02.png' width='25%'>
