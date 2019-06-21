@@ -8,8 +8,6 @@ Video for drag and drop in flutter : [here]()
 ## Screenshots
 
 <img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/app_gif.gif' align='left' width='25%'>
+<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/app_gif.gif' align='left' width='25%'>
 
-<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/flutter_01.png' width='20%'>
-
-<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/flutter_01.png' width='20%'>
 
