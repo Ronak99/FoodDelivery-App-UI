@@ -2,8 +2,9 @@
 
 In this project, I make this UI in flutter, and also added some functionalities like "Add to Cart" and "Drag to delete" using bloc pattern.
 
-Video for UI : [here]()
-Video for drag and drop in flutter : [here]()
+Video for UI : [Making the Food Delivery App UI in Flutter](https://youtu.be/wWH66F9y63U)
+<br>
+Video for drag and drop in flutter : [Drag & Drop in Flutter](https://youtu.be/pKO54ttCV5I)
 
 ## Screenshots
 
