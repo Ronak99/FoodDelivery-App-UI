@@ -11,4 +11,5 @@ Video for drag and drop in flutter : [here]()
 
 <img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/flutter_01.png' width='20%'>
 
-<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/food_delivery_second_screen.jpeg' width='20%'>
+<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/flutter_01.png' width='20%'>
+
