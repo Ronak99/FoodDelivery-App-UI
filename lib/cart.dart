@@ -331,7 +331,6 @@ class DraggableChildFeedback extends StatelessWidget {
         child: StreamBuilder(
           stream: colorBloc.colorStream,
           builder: (context, snapshot) {
-
             return Container(
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(15),
